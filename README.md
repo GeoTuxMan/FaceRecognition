@@ -12,10 +12,15 @@ Step to run application:
 3) python crop_face.py
 4) cd ..
 5) create a file `csv.ext` :
+
 /home/george/Desktop/C++/OpenCV/RecunoastereFaciala/Irina/irina1_20_20_70_70.jpg;0
+
 /home/george/Desktop/C++/OpenCV/RecunoastereFaciala/Irina/irina2_20_20_70_70.jpg;0
+
 /home/george/Desktop/C++/OpenCV/RecunoastereFaciala/Irina/irina3_20_20_70_70.jpg;0
+
 /home/george/Desktop/C++/OpenCV/RecunoastereFaciala/Irina/irina5_20_20_70_70.jpg;0
+
 
 5) g++ RecunoastereFaciala.cpp -o RecunoastereFaciala `pkg-config --cflags --libs opencv`
 6) ./RecunoastereFaciala
