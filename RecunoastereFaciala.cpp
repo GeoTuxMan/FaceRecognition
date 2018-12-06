@@ -41,7 +41,7 @@ static void read_csv(const string& filename, vector<Mat>& images, vector<int>& l
 string g_listname_t[]= 
 {
 	
-	"George",
+	
         "Irina"
 };
 
