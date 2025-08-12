@@ -1,5 +1,5 @@
 # FaceRecognition
-face recognition application develop with C++, OpenCV
+face recognition application develop with Python, OpenCV
 
 The application is trained with some images of a person (minim 2 image).
 
@@ -22,8 +22,8 @@ Step to run application:
 /home/george/Desktop/C++/OpenCV/RecunoastereFaciala/Irina/irina5_20_20_70_70.jpg;0
 
 
-5) g++ RecunoastereFaciala.cpp -o RecunoastereFaciala `pkg-config --cflags --libs opencv`
-6) ./RecunoastereFaciala
+5) python3 FaceRecognition.py
+
 
 
 
